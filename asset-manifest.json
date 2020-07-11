@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/reactstrap-tutorial/static/js/main.e7d03b2b.chunk.js",
+    "main.js.map": "/reactstrap-tutorial/static/js/main.e7d03b2b.chunk.js.map",
+    "runtime-main.js": "/reactstrap-tutorial/static/js/runtime-main.abffbad7.js",
+    "runtime-main.js.map": "/reactstrap-tutorial/static/js/runtime-main.abffbad7.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/reactstrap-tutorial/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ab202e66.chunk.js": "/reactstrap-tutorial/static/js/2.ab202e66.chunk.js",
+    "static/js/2.ab202e66.chunk.js.map": "/reactstrap-tutorial/static/js/2.ab202e66.chunk.js.map",
+    "index.html": "/reactstrap-tutorial/index.html",
+    "precache-manifest.b05979916ae844b66ee9f2187907c693.js": "/reactstrap-tutorial/precache-manifest.b05979916ae844b66ee9f2187907c693.js",
+    "service-worker.js": "/reactstrap-tutorial/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/reactstrap-tutorial/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.ab202e66.chunk.js.LICENSE.txt": "/reactstrap-tutorial/static/js/2.ab202e66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abffbad7.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ab202e66.chunk.js",
+    "static/js/main.e7d03b2b.chunk.js"
+  ]
+}
